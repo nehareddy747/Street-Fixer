@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "23838966010",
+    "firebase_url": "https://street-fixer-21537-default-rtdb.firebaseio.com",
+    "project_id": "street-fixer-21537",
+    "storage_bucket": "street-fixer-21537.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23838966010:android:fb426d20780d031085c943",
+        "android_client_info": {
+          "package_name": "com.cmr.streetfixer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23838966010-f06th7jqcdmu4btamlsc62uddbp57tem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cmr.streetfixer",
+            "certificate_hash": "12a995ffd32e4144b5d34db3c159c0b87be6be3f"
+          }
+        },
+        {
+          "client_id": "23838966010-efl5ktl1sgfdlvtsofv0mv837amnuv97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqf-qbU6fXE2QSIsLRJ6jFv97pAkm_SRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23838966010-efl5ktl1sgfdlvtsofv0mv837amnuv97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
